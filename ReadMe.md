@@ -2,6 +2,7 @@
     <h1> Wizard Bot </h1>
     <img src="Logotype.svg" height="100"/>
     <br>
+    <br>
 </div>
 
 <div align="left">
