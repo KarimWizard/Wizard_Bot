@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="Logotype.svg" height="50"/>
-    <h2> Wizard Bot </h2>
+    <h2> Шаблоны ботов KarakurtAPI </h2>
     <img src="MediaVK-.svg" height="25"/>
     <img src="MediaTG-.svg" height="25"/>
     <img src="MediaDC-.svg" height="25"/>
