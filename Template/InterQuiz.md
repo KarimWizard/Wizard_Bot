@@ -1,10 +1,10 @@
 <div align="center">
-    <h2> Шаблон InterQuiz </h2>
-    <hr>
+    <h1> Шаблон InterQuiz </h1>
     <img src="MediaVK-.svg" height="25"/>
     <img src="MediaTG-.svg" height="25"/>
     <img src="MediaDC-.svg" height="25"/>
     <img src="MediaOK-.svg" height="25"/>
+    <hr>
 </div>
 
 <div align="left">

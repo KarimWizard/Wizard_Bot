@@ -1,9 +1,11 @@
 <div align="center">
+    <img src="Logotype.svg" height="50"/>
     <h2> Wizard Bot </h2>
+    <img src="MediaVK-.svg" height="25"/>
+    <img src="MediaTG-.svg" height="25"/>
+    <img src="MediaDC-.svg" height="25"/>
+    <img src="MediaOK-.svg" height="25"/>
     <hr>
-    <img src="Logotype.svg" height="100"/>
-    <br>
-    <br>
 </div>
 
 <div align="left">
