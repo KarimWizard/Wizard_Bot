@@ -1,6 +1,6 @@
 <div align="center">
-    <h1> Шаблон SupParser </h1>
-    <br>
+    <h2> Шаблон SupParser </h2>
+    <hr>
     <img src="MediaVK-.svg" height="25"/>
     <img src="MediaTG-.svg" height="25"/>
     <img src="MediaDC-.svg" height="25"/>

@@ -1,5 +1,6 @@
 <div align="center">
-    <h1> Wizard Bot </h1>
+    <h2> Wizard Bot </h2>
+    <hr>
     <img src="Logotype.svg" height="100"/>
     <br>
     <br>

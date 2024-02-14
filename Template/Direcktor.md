@@ -1,6 +1,6 @@
 <div align="center">
-    <h1> Шаблон Direcktor </h1>
-    <br>
+    <h2> Шаблон Direcktor </h2>
+    <hr>
     <img src="MediaVK-.svg" height="25"/>
     <img src="MediaTG-.svg" height="25"/>
     <img src="MediaDC-.svg" height="25"/>
