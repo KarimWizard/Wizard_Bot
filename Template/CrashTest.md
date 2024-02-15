@@ -1,9 +1,9 @@
 <div align="center">
     <h1> Шаблон CrashTest </h1>
-    <img src="MediaVK-.svg" height="25"/>
-    <img src="MediaTG-.svg" height="25"/>
-    <img src="MediaDC-.svg" height="25"/>
-    <img src="MediaOK-.svg" height="25"/>
+    <img src="../MediaImg/MediaVK-.svg" height="30"/>
+    <img src="../MediaImg/MediaTG-.svg" height="30"/>
+    <img src="../MediaImg/MediaDC-.svg" height="30"/>
+    <img src="../MediaImg/MediaOK-.svg" height="30"/>
     <hr>
 </div>
 
