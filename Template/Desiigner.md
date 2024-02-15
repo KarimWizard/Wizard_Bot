@@ -4,15 +4,19 @@
     <img src="../MediaImg/MediaTG-.svg" height="30"/>
     <img src="../MediaImg/MediaDC-.svg" height="30"/>
     <img src="../MediaImg/MediaOK-.svg" height="30"/>
+    <br>
+    <code><a href="../ReadMe.md">< Вернуться к списку шаблонов ></a></code>
     <hr>
 </div>
 
 <div align="left">
-
+    Шаблон бота, использующего нейросеть для исполнения различных задач. Например, создания изображений
+    (или qr-кодов) по запросу пользователя или рисования изображений для публикации в соц.сетях. Может
+    использовать модели: <code>LeonardoAI</code> или <code>QuickqrArt</code>.
+    <br>
+    <hr>
 </div>
 
 <div align="center">
-    <code><a href="../ReadMe.md">Вернуться к списку ботов</a></code>
-    <hr>
     <code>KarakurtAPI</code>
 </div>

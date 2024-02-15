@@ -4,15 +4,18 @@
     <img src="../MediaImg/MediaTG-.svg" height="30"/>
     <img src="../MediaImg/MediaDC-.svg" height="30"/>
     <img src="../MediaImg/MediaOK-.svg" height="30"/>
+    <br>
+    <code><a href="../ReadMe.md">< Вернуться к списку шаблонов ></a></code>
     <hr>
 </div>
 
 <div align="left">
-
+    Шаблон-испытатель, предназначен для тестирования и демонстрации различных нововведений. В списке
+    указан для демонстрации реализации простейшего шаблона эхо-бота.
+    <br>
+    <hr>
 </div>
 
 <div align="center">
-    <code><a href="../ReadMe.md">Вернуться к списку ботов</a></code>
-    <hr>
     <code>KarakurtAPI</code>
 </div>

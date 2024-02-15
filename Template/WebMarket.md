@@ -4,15 +4,19 @@
     <img src="../MediaImg/MediaTG-.svg" height="30"/>
     <img src="../MediaImg/MediaDC-.svg" height="30"/>
     <img src="../MediaImg/MediaOK-.svg" height="30"/>
+    <br>
+    <code><a href="../ReadMe.md">< Вернуться к списку шаблонов ></a></code>
     <hr>
 </div>
 
 <div align="left">
-
+    Шаблон веб-маркета в социальных сетях, предназначен для замены/дополнения онлайн магазинов. Может
+    иметь как простое меню с перелистыванием товаров, так и сложные структуры из разделов и выбора
+    количества, желаемого для приобретения.
+    <br>
+    <hr>
 </div>
 
 <div align="center">
-    <code><a href="../ReadMe.md">Вернуться к списку ботов</a></code>
-    <hr>
     <code>KarakurtAPI</code>
 </div>
