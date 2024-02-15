@@ -15,6 +15,8 @@
     <code>ChatGPT</code>, <code>YandGPT</code> или <code>SberGPT</code>.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

@@ -15,6 +15,8 @@
     предложенных, либо получение ответа в свободной форме.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

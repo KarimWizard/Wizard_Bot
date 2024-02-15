@@ -13,6 +13,8 @@
     Шаблон бота, помогающего создать базу знаний для пользователей в пределах удобного мессенджера.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

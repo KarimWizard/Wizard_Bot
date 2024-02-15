@@ -14,6 +14,8 @@
     Например, сбор открытых данных компании с гос.ресурсов с использованием ИНН или ОГРН этой компании.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

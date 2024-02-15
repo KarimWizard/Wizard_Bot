@@ -15,6 +15,8 @@
     указанное время.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

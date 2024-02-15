@@ -14,6 +14,8 @@
     указан для демонстрации реализации простейшего шаблона эхо-бота.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
 

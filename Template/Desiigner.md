@@ -15,6 +15,8 @@
     использовать модели: <code>LeonardoAI</code> или <code>QuickqrArt</code>.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

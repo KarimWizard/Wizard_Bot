@@ -14,6 +14,8 @@
     в формировании письма, формировании списка получателей и настроить отложенную отправку писем.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     

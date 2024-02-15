@@ -15,6 +15,8 @@
     сообщать в случае появления ошибок.
 </div>
 
+<br>
+
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
     
