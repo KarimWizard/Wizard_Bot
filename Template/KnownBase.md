@@ -5,16 +5,27 @@
     <img src="../MediaImg/MediaDC-.svg" height="30"/>
     <img src="../MediaImg/MediaOK-.svg" height="30"/>
     <br>
-    <code><a href="../ReadMe.md">< Вернуться к списку шаблонов ></a></code>
+    <kbd><a href="../ReadMe.md">< Вернуться к списку шаблонов ></a></kbd>
     <hr>
 </div>
 
 <div align="left">
     Шаблон бота, помогающего создать базу знаний для пользователей в пределах удобного мессенджера.
-    <br>
-    <hr>
 </div>
 
+<pre lang="Python">
+    from KarakurtAPI.OpenAPIs import Medianet
+    
+    Key = "0123456789:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    Bot = Medianet.BotsTG(Key)
+    
+    while True:
+        for Event in Bot.getEvents():
+            ...
+</pre>
+
 <div align="center">
-    <code>KarakurtAPI</code>
+    <br>
+    <hr>
+    <samp>KarakurtAPI</samp>
 </div>
