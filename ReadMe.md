@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Шаблоны ботов KarakurtAPI </h2>
+    <h2> Шаблоны ботов на базе «KarakurtAPI» </h2>
     <img src="MediaImg/MediaVK-.svg" height="30"/>
     <img src="MediaImg/MediaTG-.svg" height="30"/>
     <img src="MediaImg/MediaDC-.svg" height="30"/>
@@ -83,7 +83,7 @@
             Введение в работу бота команд вида <code>!prompt</code> для выполнения каких-либо действий;
         </li>
         <li>
-            Ведение работы с собственной "локальной" базой данных, либо с онлайн-базами данных;
+            Ведение работы с собственной "локальной" базой данных, либо с онлайн-базами данных (sql);
         </li>
     </ul>
     <hr>

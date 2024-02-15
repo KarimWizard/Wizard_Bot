@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Шаблон Chatterer </h1>
+    <h1> Шаблон «Chatterer» </h1>
     <img src="../MediaImg/MediaVK-.svg" height="30"/>
     <img src="../MediaImg/MediaTG-.svg" height="30"/>
     <img src="../MediaImg/MediaDC-.svg" height="30"/>
