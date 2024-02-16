@@ -1,7 +1,7 @@
 <div align="center">
     <h1> Шаблон «WebMarket» </h1>
     <img src="../MediaImg/MediaVK-.svg" height="30"/>
-    <img src="../MediaImg/MediaTG-.svg" height="30"/>
+    <img src="../MediaImg/MediaTG+.svg" height="30"/>
     <img src="../MediaImg/MediaDC-.svg" height="30"/>
     <img src="../MediaImg/MediaOK-.svg" height="30"/>
     <br>
