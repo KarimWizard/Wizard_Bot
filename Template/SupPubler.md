@@ -14,7 +14,9 @@
     отложенные посты и/или удаление постов через указанное время.
 </div>
 
-<br>
+<div align="center">
+    <br>
+</div>
 
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
@@ -30,5 +32,8 @@
 <div align="center">
     <br>
     <hr>
+</div>
+
+<div align="center">
     <samp>KarakurtAPI</samp>
 </div>

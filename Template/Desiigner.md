@@ -14,7 +14,9 @@
     рисования изображений для публикации в соц.сетях. Может использовать модели: <code>LeonardoAI</code> или <code>QuickqrArt</code>.
 </div>
 
-<br>
+<div align="center">
+    <br>
+</div>
 
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
@@ -30,5 +32,8 @@
 <div align="center">
     <br>
     <hr>
+</div>
+
+<div align="center">
     <samp>KarakurtAPI</samp>
 </div>

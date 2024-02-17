@@ -14,7 +14,9 @@
     услуг в соц.сетях. Может содержать в себе выбор ответа из предложенных, либо получение ответа в свободной форме.
 </div>
 
-<br>
+<div align="center">
+    <br>
+</div>
 
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
@@ -30,5 +32,8 @@
 <div align="center">
     <br>
     <hr>
+</div>
+
+<div align="center">
     <samp>KarakurtAPI</samp>
 </div>

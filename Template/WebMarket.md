@@ -14,7 +14,9 @@
     товаров, так и сложные структуры из разделов и выбора количества, желаемого для приобретения.
 </div>
 
-<br>
+<div align="center">
+    <br>
+</div>
 
 <pre lang="Python">
     from KarakurtAPI.OpenAPIs import Medianet
@@ -30,5 +32,8 @@
 <div align="center">
     <br>
     <hr>
+</div>
+
+<div align="center">
     <samp>KarakurtAPI</samp>
 </div>
