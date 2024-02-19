@@ -23,7 +23,6 @@
 </div>
 
 <div align="center">
-    <br>
     <hr>
 </div>
 
@@ -39,7 +38,6 @@
 </div>
 
 <div align="center">
-    <br>
     <hr>
 </div>
 
@@ -65,7 +63,6 @@
 </div>
 
 <div align="center">
-    <br>
     <hr>
 </div>
 
@@ -75,8 +72,13 @@
     <ul>
         <li>                                                                                                                                     </li>
     </ul>
-    <br>
+</div>
+
+<div align="center">
     <hr>
+</div>
+
+<div align="left">
     >> Класс <code>EtcBots</code> - иные шаблоны ботов, не подходящие под общую классификацию.
     <ul>
         <li> <code><a href="/Template/CrashTest.md">CrashTest</a></code> - шаблон-испытатель, для демонстрации фич;                              </li>
@@ -85,7 +87,6 @@
 </div>
 
 <div align="center">
-    <br>
     <hr>
 </div>
 
